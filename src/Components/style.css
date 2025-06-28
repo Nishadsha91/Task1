@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+}
+.body{
+    position: fixed;
+    width:500vh;
+    height: 100vh;
+}
+.Dark{
+    background-color: black;
+    color: white;
+   
+   
+}
+.light{
+    background-color: white;
+    color: black;
+}
+
+.but{
+   margin: 300px 700px;
+   width: 120px;
+   height: 35px;
+   border-radius: 20px;
+   background-color: lightgray;
+   font-family: monospace;
+
+}
+
+.font{
+    font-family: monospace;
+    position: inherit;
+    left: 640px;
+    top: 250px;
+    
+}
